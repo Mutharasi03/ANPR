@@ -1,6 +1,5 @@
 ultralytics
 pandas
-opencv-python
 numpy
 scipy
 easyocr
