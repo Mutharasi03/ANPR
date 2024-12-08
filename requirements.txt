@@ -5,3 +5,4 @@ numpy
 scipy
 easyocr
 filterpy
+opencv-python-headless
